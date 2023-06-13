@@ -1,4 +1,4 @@
-###My Git Alias List
+### My Git Alias List
 	cmp = "!f() { git add -A && git commit -m \"$@\" && git push; }; f"
 	co = checkout
     	rb = rebase -i
